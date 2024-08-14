@@ -1,0 +1,18 @@
+/Users/mac/rust/web3_scrapper/target/debug/deps/libselectors-b95d21253d426be7.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/attr.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/bloom.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/builder.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/context.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/matching.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/nth_index_cache.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/parser.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/sink.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/tree.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/visitor.rs /Users/mac/rust/web3_scrapper/target/debug/build/selectors-0fa3ab7955147c1a/out/ascii_case_insensitive_html_attributes.rs
+
+/Users/mac/rust/web3_scrapper/target/debug/deps/selectors-b95d21253d426be7.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/attr.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/bloom.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/builder.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/context.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/matching.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/nth_index_cache.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/parser.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/sink.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/tree.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/visitor.rs /Users/mac/rust/web3_scrapper/target/debug/build/selectors-0fa3ab7955147c1a/out/ascii_case_insensitive_html_attributes.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/attr.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/bloom.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/builder.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/context.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/matching.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/nth_index_cache.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/parser.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/sink.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/tree.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/selectors-0.22.0/visitor.rs:
+/Users/mac/rust/web3_scrapper/target/debug/build/selectors-0fa3ab7955147c1a/out/ascii_case_insensitive_html_attributes.rs:
+
+# env-dep:OUT_DIR=/Users/mac/rust/web3_scrapper/target/debug/build/selectors-0fa3ab7955147c1a/out

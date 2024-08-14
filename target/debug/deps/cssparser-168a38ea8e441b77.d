@@ -1,0 +1,17 @@
+/Users/mac/rust/web3_scrapper/target/debug/deps/libcssparser-168a38ea8e441b77.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/rules_and_declarations.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/color.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/cow_rc_str.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/from_bytes.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/nth.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/parser.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/serializer.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/unicode_range.rs /Users/mac/rust/web3_scrapper/target/debug/build/cssparser-8ea869445fae8e04/out/tokenizer.rs
+
+/Users/mac/rust/web3_scrapper/target/debug/deps/cssparser-168a38ea8e441b77.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/rules_and_declarations.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/color.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/cow_rc_str.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/from_bytes.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/nth.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/parser.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/serializer.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/unicode_range.rs /Users/mac/rust/web3_scrapper/target/debug/build/cssparser-8ea869445fae8e04/out/tokenizer.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/macros.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/rules_and_declarations.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/color.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/cow_rc_str.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/from_bytes.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/nth.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/parser.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/serializer.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cssparser-0.27.2/src/unicode_range.rs:
+/Users/mac/rust/web3_scrapper/target/debug/build/cssparser-8ea869445fae8e04/out/tokenizer.rs:
+
+# env-dep:OUT_DIR=/Users/mac/rust/web3_scrapper/target/debug/build/cssparser-8ea869445fae8e04/out

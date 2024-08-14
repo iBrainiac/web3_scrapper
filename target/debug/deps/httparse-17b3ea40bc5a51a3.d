@@ -1,0 +1,12 @@
+/Users/mac/rust/web3_scrapper/target/debug/deps/libhttparse-17b3ea40bc5a51a3.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs
+
+/Users/mac/rust/web3_scrapper/target/debug/deps/httparse-17b3ea40bc5a51a3.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs:
